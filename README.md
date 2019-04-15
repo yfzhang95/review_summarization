@@ -6,7 +6,7 @@
 - 查看产品的评论内容  
 - 利用基于SVM的商品评论摘要系统为指定产品数据生成评论摘要
 ## 主界面  
-<img src='./picture/1.png' winth = '300' height = '300' div align = center>  
+<img src='./picture/1.png' winth = '500' height = '500' div align = center>  
 
 ## 流程图
-<img src='./picture/2.png' winth = '300' height = '300' div align = center>
+<img src='./picture/2.png' winth = '500' height = '600' div align = center>
